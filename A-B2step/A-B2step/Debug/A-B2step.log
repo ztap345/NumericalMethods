@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\onedrive\documents\college\semester 5\numerical methods\a-b2step\a-b2step\main.cpp(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\onedrive\documents\college\semester 5\numerical methods\a-b2step\a-b2step\main.cpp(14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  A-B2step.vcxproj -> D:\OneDrive\Documents\College\Semester 5\Numerical Methods\A-B2step\Debug\A-B2step.exe
+  A-B2step.vcxproj -> D:\OneDrive\Documents\College\Semester 5\Numerical Methods\A-B2step\Debug\A-B2step.pdb (Partial PDB)

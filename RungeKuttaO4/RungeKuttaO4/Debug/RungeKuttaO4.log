@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\onedrive\documents\college\semester 5\numerical methods\rungekuttao4\rungekuttao4\main.cpp(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\onedrive\documents\college\semester 5\numerical methods\rungekuttao4\rungekuttao4\main.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\onedrive\documents\college\semester 5\numerical methods\rungekuttao4\rungekuttao4\main.cpp(14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  RungeKuttaO4.vcxproj -> D:\OneDrive\Documents\College\Semester 5\Numerical Methods\RungeKuttaO4\Debug\RungeKuttaO4.exe
+  RungeKuttaO4.vcxproj -> D:\OneDrive\Documents\College\Semester 5\Numerical Methods\RungeKuttaO4\Debug\RungeKuttaO4.pdb (Partial PDB)
